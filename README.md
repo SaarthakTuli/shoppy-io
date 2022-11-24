@@ -3,6 +3,7 @@
 A Full Stack Ecommerce Web App using Next JS and Sanity. It is fully responsive as uses Stripe as the payment authentication.
 
 
+![3](./public/1.jpg)
 
 
 The Test Website is:- 
