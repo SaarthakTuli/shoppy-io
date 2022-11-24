@@ -21,7 +21,7 @@ const FooterBanner = ({footerBanner : {discount, largeText1, largeText2, saleTim
           <h3>{midText}</h3>
           <p>{desc}</p>
 
-          <Link href={`/product/${product}`}>
+          <Link href={`/product/headphones_immortal_700`}>
             <button type='button'>
               {buttonText}
             </button>
