@@ -9,6 +9,13 @@ You can run it locally using :-
 npm run dev
 ```
 
+To change and add data on the database use :-
+```bash
+cd sanity_shoppy
+
+sanity start
+```
+
 but first youll need a `.env` file with the following :-
 
 
