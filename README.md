@@ -17,7 +17,11 @@ sanity start
 ```
 
 but first youll need a `.env` file with the following :-
-
+```code
+NEXT_PUBLIC_SANITY_TOKEN = { Enter the Token you recieve on creating account }
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY = { Enter the Publishable Key recieved on actiavting Stripe Account }
+NEXT_PUBLIC_STRIPE_SECRET_KEY = { Enter the Secret Key from your Stripe Account }
+```
 
 
 
