@@ -1,6 +1,6 @@
 # Shoppy
 
-A Full Stack Ecommerce Web App using Next JS and Sanity. It is fully responsive as uses Stripe as the payment authentication.
+A <b>Full Stack Ecommerce Web App using <a href="https://nextjs.org/">Next JS<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" /></a> and Sanity</b>. It is <b>Fully Responsive</b> as uses <b>Stripe</b> as the payment authentication.
 
 
 ![3](./assets/3.jpg)
@@ -8,7 +8,6 @@ A Full Stack Ecommerce Web App using Next JS and Sanity. It is fully responsive 
 ![2](./assets/2.jpg)
 
 ![1](./assets/1.jpg)
-
 
 The Test Website is:- 
 <br />
